@@ -1,7 +1,7 @@
 # FP_SISOP19_E16
 
 Penjelasan : 
-Dalam program ini, kami menggunakan 8 fungsi yaitu :
+Dalam program ini, kami menggunakan 7 fungsi yaitu :
 
 1. Ambil_waktu()
 
